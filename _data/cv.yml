@@ -16,11 +16,6 @@
       year: 2022
       description:
         - Modeling the sensorimotor system through deep learning techniques.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: M.Sc in Bionics Engineering
       institution: Scuola Superiore Sant Anna & University of Pisa, Pisa, Italy
       year: 2019
@@ -89,8 +84,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
