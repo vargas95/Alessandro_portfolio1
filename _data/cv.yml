@@ -2,38 +2,33 @@
   type: map
   contents:
     - name: Full Name
-      value: Alessandro Marin Vargas
+      value: Albert Einstein
     - name: Date of Birth
-      value: 10th January 1995
+      value: 14th March 1879
     - name: Languages
-      value: Italian
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD student
-      institution: EPFL, Lausanne, Switzerland
-      year: 2022
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Modeling the sensorimotor system through deep learning techniques.
+        - Description 1.
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: M.Sc in Bionics Engineering
-      institution: Scuola Superiore Sant Anna & University of Pisa, Pisa, Italy
-      year: 2019
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Master thesis carried out in the Harvey lab at Harvard Medical School in collaboration with Dr. Panzeri and supervised by Dr. Mazzoni and Prof. Micera.
-        
-  - title: Bachelor in Electronic Engineering
-      institution: University of Padova, Padova, Italy
-      year: 2017
-      description:
-        - Bachelor thesis carried out in the Harvey lab at Harvard Medical School in collaboration with Dr. Panzeri and supervised by Dr. Mazzoni and Prof. Micera.
+        - Description 1.
+        - Description 2.
 
-- title: Research experience
+- title: Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
