@@ -16,22 +16,22 @@
       year: 2022
       description:
         - Modeling the sensorimotor system through deep learning techniques.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: M.Sc in Bionics Engineering
       institution: Scuola Superiore Sant Anna & University of Pisa, Pisa, Italy
       year: 2019
       description:
         - Master thesis carried out in the Harvey lab at Harvard Medical School in collaboration with Dr. Panzeri and supervised by Dr. Mazzoni and Prof. Micera.
         
-   - title: Bachelor in Electronic Engineering
+  - title: Bachelor in Electronic Engineering
       institution: University of Padova, Padova, Italy
       year: 2017
-#       description:
-#         - Bachelor thesis carried out in the Harvey lab at Harvard Medical School in collaboration with Dr. Panzeri and supervised by Dr. Mazzoni and Prof. Micera.
+      description:
+        - Bachelor thesis carried out in the Harvey lab at Harvard Medical School in collaboration with Dr. Panzeri and supervised by Dr. Mazzoni and Prof. Micera.
 
 - title: Research experience
   type: time_table
